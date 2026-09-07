@@ -552,7 +552,7 @@ footer {
   }
 
   #page:target .hero-img {
-    transform: translateY(6rem);
+    transform: translateY(2rem);
   }
 
   header {
