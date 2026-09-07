@@ -176,12 +176,6 @@ nav {
   color: var(--line-200);
 }
 
-#modal li:hover,
-#registr li:hover {
-  background-color: var(--line-200);
-  color: var(--ink-900);
-}
-
 #hamburger {
   width: 2rem;
   height: 1.2rem;
@@ -552,13 +546,6 @@ footer {
 
 }
 
-/* @media (min-width: 892px) {
-  #card-text .about-img {
-    width: 36rem;
-    height: 30rem;
-  }
-} */
-
 @media (min-width: 900px) {
   #page:target #header{
     margin-top: -28rem;
@@ -710,8 +697,6 @@ footer {
     width: 36rem;
     height: 21rem;
     transform: translateY(9rem);
-    /* top: 5rem; */
-    /* margin-top: -5rem; */
   }
 
   .pattern {

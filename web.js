@@ -58,9 +58,3 @@ window.addEventListener("resize", function () {
 
     wasDesktop = isDesktop;
 })
-
-// window.addEventListener("load", function () {
-//     if (window.loacation.hash === '#page') {
-//         history.replaceState(null, "", window.location.pathname + window.location.search)
-//     }
-// })

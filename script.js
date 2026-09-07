@@ -1,4 +1,3 @@
-
 const hamburgerBtnElement = document.getElementById('hamburger')
 const closeBtnElement = document.getElementById('close')
 const modalElement = document.getElementById('modal')
