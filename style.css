@@ -547,17 +547,12 @@ footer {
 }
 
 @media (min-width: 900px) {
-  #page:target #header{
-    margin-top: -28rem;
-    transform: translateY(28rem);
-  }
-
-  #page:target .main-header{
-    margin-bottom: 10rem;
+  #page:target .main-header {
+    margin-top: -24rem;
   }
 
   #page:target .hero-img {
-    top: 20rem; 
+    transform: translateY(6rem);
   }
 
   header {
