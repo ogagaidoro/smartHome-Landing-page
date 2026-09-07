@@ -552,7 +552,8 @@ footer {
   }
 
   #page:target .hero-img {
-    transform: translateY(2rem);
+    transform: translateY(4rem);
+    bottom: 4rem;
   }
 
   header {
